@@ -1,0 +1,29 @@
+{
+  "name": "rewritr",
+  "version": "0.0.1",
+  "description": "Term rewriting library.",
+  "keywords": ["rewriting"],
+  "homepage": "http://github.com/fbreuer/rewritr",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fbreuer/rewritr.git"
+  },
+  "dependencies": {
+    "underscore": ""
+  },
+  "devDependencies": {
+    "mocha": "",
+    "chai": ""
+  },
+  "author": "Felix Breuer <felix@felixbreuer.net> (http://www.felixbreuer.net)",
+  "license": "BSD",
+  "gitHead": "9f38c48889eaad974eac24465355a71626fbb011",
+  "readmeFilename": "README.md"
+}
