@@ -2,6 +2,6 @@
 
 Simple JavaScript library for term rewriting.
 
-Goal: experimentation. Non-goal: performance.
+The main goals of this project are exploration and experimentation. Performance is not a priority.
 
 Copyright (C) 2014 Felix Breuer
